@@ -1,0 +1,11 @@
+# 忽略 Python 暫存檔
+__pycache__/
+*.pyc
+
+# 忽略本機的題庫檔案（因為已經改用雲端 Supabase 了）
+words.json
+
+# 忽略虛擬環境
+.venv/
+venv/
+env/
